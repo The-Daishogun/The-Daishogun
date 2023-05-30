@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=The-Daishogun&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-Daishogun&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Daishogun&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=The-Daishogun&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook&hide=procfile](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Daishogun&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=procfile,jupyter%20notebook))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=The-Daishogun&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
